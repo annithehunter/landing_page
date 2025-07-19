@@ -20,7 +20,7 @@ A visually engaging **landing page** for a fictional **craft product**, built wi
 ## 🔧 How to Use
 
 1. Clone the repository:
-   git clone https://github.com/annithehunter/craft-landing-page.git
+   git clone https://github.com/annithehunter/landing_page.git
 
 2. Open the index.html file in your browser:
    or simply drag it into your browser window.
