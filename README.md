@@ -24,3 +24,11 @@ A visually engaging **landing page** for a fictional **craft product**, built wi
 
 2. Open the index.html file in your browser:
    or simply drag it into your browser window.
+
+---
+
+## Preview
+
+<img width="958" height="440" alt="landing_page3" src="https://github.com/user-attachments/assets/ea938234-1b7a-468f-91cd-fe00e2db3f99" />
+
+
